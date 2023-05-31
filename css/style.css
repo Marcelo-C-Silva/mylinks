@@ -19,6 +19,15 @@ body{
     max-width: 600px;
     margin: 120px auto 0 auto;
 }
+.img-container{
+    height: 96px;
+    width: 96px;
+}
+
+.profImg{
+    width: 100%;
+    border-radius: 50%;
+}
 .link-card{
     width: 100%;
     display: flex;
