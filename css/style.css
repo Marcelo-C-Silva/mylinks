@@ -19,3 +19,12 @@ body{
     max-width: 600px;
     margin: 120px auto 0 auto;
 }
+.link-card{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    background-color: #222;
+    padding: 10px 15px;
+    color: #fff;
+    text-decoration: none;
+}
