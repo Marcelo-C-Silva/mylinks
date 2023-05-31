@@ -11,3 +11,4 @@
 
 - ``HTML 5``
 - ``CSS``
+- ``JAVASCRIPT``
