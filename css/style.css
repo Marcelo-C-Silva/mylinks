@@ -1,17 +1,18 @@
-*{
+* {
     padding: 0%;
     margin: 0%;
     border: none;
     box-sizing: border-box;
 }
 
-body{
+body {
     font-family: 'Inter', sans-serif;
     font-size: 18px;
     background-color: #111;
     color: #fff;
-}   
-.container{
+}
+
+.container {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -20,33 +21,38 @@ body{
     max-width: 600px;
     margin: 120px auto 0 auto;
 }
-h1{
+
+h1 {
     font-size: 18px;
     margin-bottom: 32px;
 }
-.share-icon{
+
+.share-icon {
     font-size: 24px;
     background-color: #222;
     padding: 12px;
     border-radius: 50%;
 }
-.share-button{
+
+.share-button {
     display: flex;
     align-self: flex-end;
     color: #fff;
 }
-.img-container{
+
+.img-container {
     height: 96px;
     width: 96px;
     margin-bottom: 12px;
 }
 
-.prof-img{
+.prof-img {
     width: 100%;
     border-radius: 50%;
     background-size: cover;
 }
-.link-card{
+
+.link-card {
     width: 100%;
     display: flex;
     justify-content: space-between;
@@ -56,11 +62,13 @@ h1{
     text-decoration: none;
     margin-bottom: 15px;
 }
-.icons{
+
+.icons {
     font-size: 24px;
 
 }
-.icons2{
+
+.icons2 {
     font-size: 24px;
 
 }

@@ -8,12 +8,12 @@ linkButton.forEach(link => {
     const copyLinkToClipBoard = navigator.clipboard.writeText(getLink);
 
     Swal.fire({
-        title: 'Muito Bem! <br> Você copiou o link.',
-        text: 'Referência para poucos.',
-        imageUrl: 'https://media.discordapp.net/attachments/874387729440444427/1113531019077898351/kakashi.gif',
-        imageWidth: 400,
-        imageHeight: 300,
-        imageAlt: 'Custom image',
-      })
+      title: 'Muito Bem! <br> Você copiou o link.',
+      text: 'Referência para poucos.',
+      imageUrl: 'https://media.discordapp.net/attachments/874387729440444427/1113531019077898351/kakashi.gif',
+      imageWidth: 400,
+      imageHeight: 300,
+      imageAlt: 'Custom image',
+    })
   })
 })
